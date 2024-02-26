@@ -1,0 +1,2 @@
+# wagmi
+wagmi tea testnet
